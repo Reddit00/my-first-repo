@@ -1,1 +1,5 @@
-"# My first repository" 
+"# Lab Works Repository" 
+"This repository contains laboratory works with the following files:" 
+"- Lab 1: Simple Python script." 
+"- Lab 2: Another simple Python script." 
+"- Lab 3: Yet another simple Python script." 
